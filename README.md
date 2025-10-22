@@ -96,8 +96,8 @@
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats-9iv8hei3w-itbamalahats-projects.vercel.app/api?username=ItbaMalahat&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-9iv8hei3w-itbamalahats-projects.vercel.app/api/top-langs/?username=ItbaMalahat&layout=compact&theme=tokyonight&cache_seconds=86400" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItbaMalahat&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItbaMalahat&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -107,6 +107,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItbaMalahat&theme=tokyo-night" alt="Activity Graph"/>
 </p>
+
 
 ---
 
