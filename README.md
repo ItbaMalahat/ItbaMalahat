@@ -62,16 +62,14 @@
   <a href="https://medium.com/@itbamalahat"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" /></a>
 </p>
 
----
-
-### 📊 GitHub Insights  
+---### 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItbaMalahat&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItbaMalahat&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ItbaMalahat&show_icons=true&theme=tokyonight" height="160" onerror="this.src='https://github-readme-stats-mu-two.vercel.app/api?username=ItbaMalahat&show_icons=true&theme=tokyonight'"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItbaMalahat&layout=compact&theme=tokyonight" height="160" onerror="this.src='https://github-readme-stats-mu-two.vercel.app/api/top-langs/?username=ItbaMalahat&layout=compact&theme=tokyonight'"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItbaMalahat&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=ItbaMalahat&theme=tokyonight" height="160"/>
 </p>
 
 ---
