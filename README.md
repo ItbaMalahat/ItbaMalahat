@@ -109,13 +109,6 @@
 </p>
 
 
----
-
-## ✨ Quick Glance  
-💡 Hover over badges for tooltips  
-💬 Expand project cards to explore details  
-⚡ Live stats powered by your own Vercel instance  
-🌓 Optimized for both dark & light GitHub themes  
 
 ---
 
