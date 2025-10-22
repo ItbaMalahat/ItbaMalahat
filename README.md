@@ -8,7 +8,7 @@
 <p align="center">
   🎓 <b>AI & Data Engineering Enthusiast</b> • 💻 <b>Researcher</b> • 🌍 <b>Based in Pakistan</b>
 </p>
----
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itba-malahat/">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
----
+
 
 ## 💫 About Me  
 🧠 Passionate about **AI**, **Data Engineering**, and **Automation Systems**  
