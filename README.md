@@ -8,7 +8,6 @@ My academic and professional portfolio lives here:
 
 ---
 
-Research Assistant with Dr. Dilrukshi Gamage, Senior Lecturer at the University of Colombo School of Computing.
 
 Working across trustworthy AI, multimodal deepfake detection, culturally grounded evaluation, and reliable AI systems.
 
